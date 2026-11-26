@@ -1,0 +1,13 @@
+{
+  "name": "telegram-task-room",
+  "version": "0.50.0-preview",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "demo": "node demo.mjs",
+    "telegram": "node telegram.mjs",
+    "test": "node --test"
+  }
+}
